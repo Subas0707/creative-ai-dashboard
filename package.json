@@ -1,0 +1,13 @@
+{
+  "name": "creative-ai-dashboard",
+  "version": "1.0.0",
+  "description": "React AI creative dashboard project",
+  "main": "App.jsx",
+  "scripts": {
+    "start": "vite"
+  },
+  "dependencies": {},
+  "author": "Subas Paudel",
+  "license": "MIT"
+}
+
